@@ -1,0 +1,21 @@
+
+/* 顶部搜索栏 */
+.header{
+    display: flex;
+    padding: 12px 0px;
+    align-items: center;
+    background-color: #37C2BB;
+}
+.chat{
+    display: inline-block;
+    margin-left: 20px;
+}
+.chat > span{
+    color: #fff;
+}
+.active{
+    color: #fff;
+    transform: scale(1.2);
+    font-weight: bold;
+    transition: .3s;
+}

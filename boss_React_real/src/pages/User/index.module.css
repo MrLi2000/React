@@ -1,0 +1,101 @@
+.header{
+    background-color: #37C2BB;
+    height: 150px;
+    padding:15px 20px;
+}
+.top{
+    text-align: end;
+}
+.icon{
+    color: #fff;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+.img > img{
+    width: 50px;
+    border-radius: 50%;
+}
+.h2{
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+}
+.h5{
+    color: #fff;
+}
+
+
+/* 下方内容 */
+.content{
+    padding: 20px;
+}
+.h3,.h4{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.h4{
+    font-size: 14px;
+}
+
+.job, .often , .other{
+    display: flex;
+    align-items: center;
+    padding: 0 0 10px 0;
+    margin-bottom: 20px;
+    justify-content: space-around;
+    border-bottom: 3px solid #eee;
+}
+.job > .option{
+    display: flex;
+    align-items: center;
+}
+.job > .option > span{
+    font-size: 15px;
+    font-weight: bold;
+}
+.job > .option > img{
+    width: 30px;
+    margin-left: 8px;
+}
+
+.often > .option{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.often > .option > img{
+    width: 30px;
+    margin-left: 8px;
+
+}
+.often > .option > span{
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 3px;
+}
+
+.other{
+    flex-wrap: wrap;
+}
+.otheroption{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.otheroption + .otheroption{
+    margin-left: 40px;
+}
+.otheroption > img{
+    width: 30px;
+}
+.otheroption > span{
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 3px;
+}

@@ -1,0 +1,103 @@
+p,h3{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 0 15px 5px 15px;
+    box-sizing: border-box;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name{
+    font-size: 18px;
+    font-weight: bold;
+}
+.company{
+    font-size: 12px;
+    color: #888;
+}
+.icon{
+    color: #000;
+    font-size: 16px;
+}
+
+
+.content{
+    width: 100%;
+    padding: 10px 15px 0;
+    height: 100vh;
+    background-color: #eee;
+}
+.list{
+    margin: 0;
+    padding: 0;
+    overflow: initial;
+}
+/* boss */
+.boss, .my{
+    display: flex;
+    align-items: center;
+}
+.boss > img, .my > img{
+    width: 50px;
+    border-radius: 50%;
+}
+.boss > img{
+    margin-right: 10px;
+}
+.my{
+    margin-top: 10px;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.myimg{
+    margin-left: 10px;
+}
+.mysay{
+    order: 1;
+}
+.say, .mysay{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 14px;
+}
+.mysay{
+    background-color: #37C2BB;
+    color: #fff;
+}
+
+
+.footer{
+    width: 100%;
+    background-color: #fff;
+    padding: 8px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 58px;
+    left: 0;
+}
+.footer > input{
+    flex: 1;
+    margin-left: 12px;
+    border: none;
+    outline: none;
+}
+.footer > button {
+    width: 70px;
+    height: 36px;
+    border: none;
+    background-color: #37C2BB;
+    color: #fff;
+    border-radius: 5px;
+}

@@ -1,0 +1,80 @@
+
+/* 顶部搜索栏 */
+.header{
+    display: flex;
+    padding: 12px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #37C2BB;
+}
+.text{
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.search{
+    margin: 0 18px;
+    background-color: #61DAD3;
+    padding:5px 15px 5px 15px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+.search > .img{
+    vertical-align: middle;
+}
+.inp{
+    border: none;
+    background-color: transparent;
+    margin-left: 5px;
+    outline: none;
+    color: #fff;
+}
+/* 设置input的placeholder属性样式 */
+.inp::placeholder{
+    color: #fff;
+}
+/* 搜索框右边icon */
+.icon img + img{
+    margin-left: 16px;
+}
+.img{
+    width: 20px;
+}
+
+/* 轮播图下方tablist */
+.tablist{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 18px 0 10px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.list > p{
+    margin: 0;
+}
+
+/* 内容区 */
+.content{
+    padding: 10px;
+}
+.h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+.none{
+    margin-bottom: 80px;
+}
+
+.brower{
+    font-size: 14px;
+    font-weight: normal;
+    color: #ccc;
+    float: right;
+    margin-right: 20px;
+}

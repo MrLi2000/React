@@ -1,0 +1,42 @@
+
+.footerBar{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 99;
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid #eee;
+    background-color: #fff;
+    box-shadow: 0 -1px 5px #eee;
+}
+.footerBar .boxBar p{
+    margin-top: .266667rem /* 10px -> .266667rem */;
+    font-size: .533333rem /* 20px -> .533333rem */;
+}
+.footerBar img.imgBig{
+    width: 1.333333rem /* 50px -> 1.333333rem */
+}
+.boxBar{
+    padding: .8rem 0 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #666;
+}
+
+.selectStyle{
+    color: #37C2BB;
+}
+.selectStyle > p{
+    /* background-color: red; */
+    color: #37C2BB;
+    background-color: #fff;
+    font-weight: bold;
+    transition: all .2s ease;
+}
+.footerBar-text{
+    color: #666;
+}

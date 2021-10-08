@@ -1,0 +1,37 @@
+{
+  "id": "2834995",
+  "name": "React",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727459",
+      "name": "224用户",
+      "font_class": "yonghu",
+      "unicode": "e8c8",
+      "unicode_decimal": 59592
+    },
+    {
+      "icon_id": "5744733",
+      "name": "home",
+      "font_class": "shouye",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5744743",
+      "name": "message",
+      "font_class": "xinxi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "16969322",
+      "name": "比心面",
+      "font_class": "bixinmian",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+.container{
+    margin-top: 109px;
+}
+.ul{
+    padding: 0;
+    width: 100%;
+    margin-bottom: 66px;
+}
+.lis{
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 5px solid #eee;
+    padding: 15px;
+}
+
+/* top */
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.title,.price{
+    font-weight: bold;
+}
+.title{
+    font-size: 18px;
+    color: #000;
+}
+.price{
+    color: #37C2BB;
+}
+
+
+/* tag */
+.tag{
+    margin-bottom: 5px;
+}
+/* .tag > span{
+    display: inline-block;
+    font-size: 12px;
+    padding: 2px 5px;
+    background-color: #eee;
+    color: #999;
+} */
+/* .tag span + span{
+    margin-left: 5px;
+} */
+
+
+/* company */
+.company{
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #000;
+}
+/* .company > span{
+    display: inline-block;
+    margin-left: 5px;
+    
+} */
+
+
+/* info */
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.person > span{
+    font-size: 12px;
+    color: #000;
+}
+.address{
+    font-size: 12px;
+    color: #999;
+}
+.avatar{
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
