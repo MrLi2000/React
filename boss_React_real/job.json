@@ -1,0 +1,802 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "job": "Web前端开发",
+      "salary": "7-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "专科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "React"
+        },
+        {
+          "ask": "React Native"
+        }
+      ],
+      "info": "有家 不需要融资 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2813520958,2218166536&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "吴娟．人事经理",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "2",
+      "job": "前端开发工程师",
+      "salary": "8-13K",
+      "demand": [
+        {
+          "ask": "3年以上"
+        },
+        {
+          "ask": "本科"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "TypeScript"
+        },
+        {
+          "ask": "前端性能"
+        }
+      ],
+      "info": "煌创 不需要融资 500人以上",
+      "avatar": "https://img2.baidu.com/it/u=3354066334,1529355902&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "范女生．HR",
+      "position": "岳麓区 青山镇"
+    },
+    {
+      "id": "3",
+      "job": "Web前端实习生",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "经验不限"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "前端开发"
+        }
+      ],
+      "info": "维电电子厂 A轮 1000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2750999370,3140239598&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "刘刚．人事经理",
+      "position": "望城区 经济开发区"
+    },
+    {
+      "id": "4",
+      "job": "前端技术专家",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "1-3年工作经验"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "数码科技 C轮 10000人以上",
+      "avatar": "https://img0.baidu.com/it/u=1519092862,4242608448&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡治明．经理",
+      "position": "岳麓区 涉外经济学院"
+    },
+    {
+      "id": "5",
+      "job": "Web前端",
+      "salary": "20-30K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "本科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "移动端"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "腾讯 已上市 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=1280413706,2532546875&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "谭香．HR",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "6",
+      "job": "Web前端高级工程师",
+      "salary": "15-20K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "云协科技 不需要融资 10000人以上",
+      "avatar": "https://img2.baidu.com/it/u=2269613814,4130212443&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "田美．人事经理",
+      "position": "天心区 经济开发区"
+    },
+    {
+      "id": "7",
+      "job": "Web前端",
+      "salary": "5-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "uniApp"
+        },
+        {
+          "ask": "微信小程序"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "乐客集团 不需要融资 100人以上",
+      "avatar": "https://img0.baidu.com/it/u=428168802,2898580212&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡月．人事",
+      "position": "岳麓区 芯城科技园"
+    },
+    {
+      "id": "8",
+      "job": "Web前端开发",
+      "salary": "7-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "专科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "React"
+        },
+        {
+          "ask": "React Native"
+        }
+      ],
+      "info": "有家 不需要融资 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2813520958,2218166536&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "吴娟．人事经理",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "9",
+      "job": "前端开发工程师",
+      "salary": "8-13K",
+      "demand": [
+        {
+          "ask": "3年以上"
+        },
+        {
+          "ask": "本科"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "TypeScript"
+        },
+        {
+          "ask": "前端性能"
+        }
+      ],
+      "info": "煌创 不需要融资 500人以上",
+      "avatar": "https://img2.baidu.com/it/u=3354066334,1529355902&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "范女生．HR",
+      "position": "岳麓区 青山镇"
+    },
+    {
+      "id": "10",
+      "job": "Web前端实习生",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "经验不限"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "前端开发"
+        }
+      ],
+      "info": "维电电子厂 A轮 1000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2750999370,3140239598&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "刘刚．人事经理",
+      "position": "望城区 经济开发区"
+    },
+    {
+      "id": "11",
+      "job": "前端技术专家",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "不需要经验"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "数码科技 C轮 10000人以上",
+      "avatar": "https://img0.baidu.com/it/u=1519092862,4242608448&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡龙．经理",
+      "position": "岳麓区 涉外经济学院"
+    },
+    {
+      "id": "12",
+      "job": "Web前端",
+      "salary": "20-30K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "本科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "移动端"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "腾讯 已上市 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=1280413706,2532546875&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "谭香．HR",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "13",
+      "job": "Web前端高级工程师",
+      "salary": "15-20K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "云协科技 不需要融资 10000人以上",
+      "avatar": "https://img2.baidu.com/it/u=2269613814,4130212443&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "田美．人事经理",
+      "position": "天心区 经济开发区"
+    },
+    {
+      "id": "14",
+      "job": "Web前端",
+      "salary": "5-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "uniApp"
+        },
+        {
+          "ask": "微信小程序"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "乐客集团 不需要融资 100人以上",
+      "avatar": "https://img0.baidu.com/it/u=428168802,2898580212&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡月．人事",
+      "position": "岳麓区 芯城科技园"
+    }
+  ],
+  "java": [
+    {
+      "id": "1",
+      "job": "java开发工程师",
+      "salary": "7-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "专科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "React"
+        },
+        {
+          "ask": "React Native"
+        }
+      ],
+      "info": "有家 不需要融资 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2813520958,2218166536&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "吴娟．人事经理",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "2",
+      "job": "java工程师",
+      "salary": "8-13K",
+      "demand": [
+        {
+          "ask": "3年以上"
+        },
+        {
+          "ask": "本科"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "TypeScript"
+        },
+        {
+          "ask": "前端性能"
+        }
+      ],
+      "info": "煌创 不需要融资 500人以上",
+      "avatar": "https://img2.baidu.com/it/u=3354066334,1529355902&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "范女生．HR",
+      "position": "岳麓区 青山镇"
+    },
+    {
+      "id": "3",
+      "job": "java实习生",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "经验不限"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "前端开发"
+        }
+      ],
+      "info": "维电电子厂 A轮 1000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2750999370,3140239598&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "刘刚．人事经理",
+      "position": "望城区 经济开发区"
+    },
+    {
+      "id": "4",
+      "job": "java技术专家",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "1-3年工作经验"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "数码科技 C轮 10000人以上",
+      "avatar": "https://img0.baidu.com/it/u=1519092862,4242608448&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡治明．经理",
+      "position": "岳麓区 涉外经济学院"
+    },
+    {
+      "id": "5",
+      "job": "java开发",
+      "salary": "20-30K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "本科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "移动端"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "腾讯 已上市 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=1280413706,2532546875&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "谭香．HR",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "6",
+      "job": "java高级工程师",
+      "salary": "15-20K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "云协科技 不需要融资 10000人以上",
+      "avatar": "https://img2.baidu.com/it/u=2269613814,4130212443&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "田美．人事经理",
+      "position": "天心区 经济开发区"
+    },
+    {
+      "id": "7",
+      "job": "java",
+      "salary": "5-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "uniApp"
+        },
+        {
+          "ask": "微信小程序"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "乐客集团 不需要融资 100人以上",
+      "avatar": "https://img0.baidu.com/it/u=428168802,2898580212&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡月．人事",
+      "position": "岳麓区 芯城科技园"
+    },
+    {
+      "id": "8",
+      "job": "java",
+      "salary": "7-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "专科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "React"
+        },
+        {
+          "ask": "React Native"
+        }
+      ],
+      "info": "有家 不需要融资 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2813520958,2218166536&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "吴娟．人事经理",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "9",
+      "job": "java工程师",
+      "salary": "8-13K",
+      "demand": [
+        {
+          "ask": "3年以上"
+        },
+        {
+          "ask": "本科"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "TypeScript"
+        },
+        {
+          "ask": "前端性能"
+        }
+      ],
+      "info": "煌创 不需要融资 500人以上",
+      "avatar": "https://img2.baidu.com/it/u=3354066334,1529355902&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "范女生．HR",
+      "position": "岳麓区 青山镇"
+    },
+    {
+      "id": "10",
+      "job": "java实习生",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "经验不限"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "前端开发"
+        }
+      ],
+      "info": "维电电子厂 A轮 1000人以上",
+      "avatar": "https://img1.baidu.com/it/u=2750999370,3140239598&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "刘刚．人事经理",
+      "position": "望城区 经济开发区"
+    },
+    {
+      "id": "11",
+      "job": "java技术专家",
+      "salary": "4-6K",
+      "demand": [
+        {
+          "ask": "不需要经验"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "数码科技 C轮 10000人以上",
+      "avatar": "https://img0.baidu.com/it/u=1519092862,4242608448&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡龙．经理",
+      "position": "岳麓区 涉外经济学院"
+    },
+    {
+      "id": "12",
+      "job": "java后台工程师",
+      "salary": "20-30K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "本科以上"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "移动端"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "腾讯 已上市 10000人以上",
+      "avatar": "https://img1.baidu.com/it/u=1280413706,2532546875&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "谭香．HR",
+      "position": "岳麓区 麓谷"
+    },
+    {
+      "id": "13",
+      "job": "java高级工程师",
+      "salary": "15-20K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "前端开发"
+        },
+        {
+          "ask": "Vue"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "云协科技 不需要融资 10000人以上",
+      "avatar": "https://img2.baidu.com/it/u=2269613814,4130212443&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "田美．人事经理",
+      "position": "天心区 经济开发区"
+    },
+    {
+      "id": "14",
+      "job": "java高级",
+      "salary": "5-12K",
+      "demand": [
+        {
+          "ask": "1-3年"
+        },
+        {
+          "ask": "学历不限"
+        },
+        {
+          "ask": "uniApp"
+        },
+        {
+          "ask": "微信小程序"
+        },
+        {
+          "ask": "React"
+        }
+      ],
+      "info": "乐客集团 不需要融资 100人以上",
+      "avatar": "https://img0.baidu.com/it/u=428168802,2898580212&fm=26&fmt=auto&gp=0.jpg",
+      "hr": "胡月．人事",
+      "position": "岳麓区 芯城科技园"
+    }
+  ],
+  "chat": [
+    {
+      "id": "0",
+      "image": "https://img2.baidu.com/it/u=3354066334,1529355902&fm=26&fmt=auto&gp=0.jpg",
+      "name": "赵军",
+      "company": "达科创联",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    },
+    {
+      "id": "1",
+      "image": "https://img2.baidu.com/it/u=2890165884,1588619991&fm=26&fmt=auto&gp=0.jpg",
+      "name": "刘广",
+      "company": "享住",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    },
+    {
+      "id": "2",
+      "image": "https://img0.baidu.com/it/u=169572423,3439154922&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=500",
+      "name": "赵小非",
+      "company": "威利电子厂",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    },
+    {
+      "id": "3",
+      "image": "https://img0.baidu.com/it/u=1828412519,2729287676&fm=26&fmt=auto&gp=0.jpg",
+      "name": "黄玄德",
+      "company": "灵溪科技",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    },
+    {
+      "id": "4",
+      "image": "https://img1.baidu.com/it/u=2631856496,46453215&fm=253&fmt=auto&app=120&f=JPEG?w=400&h=400",
+      "name": "张一德",
+      "company": "拓瑞软件",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    },
+    {
+      "id": "5",
+      "image": "https://img0.baidu.com/it/u=1808742536,1500106222&fm=26&fmt=auto&gp=0.jpg",
+      "name": "刘湘云",
+      "company": "瑞欧科技",
+      "chats": "[新招呼]您好~非常期待能和你进一步沟通..."
+    }
+  ],
+  "swipers": [
+    {
+      "id": 1,
+      "image": "https://img.bosszhipin.com/beijin/upload/image/20191225/719b5568228bda8229408e1401457f13.jpg?x-oss-process=image/format,jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://img.bosszhipin.com/beijin/upload/image/20191225/631e45e84ab482efaaf0a2bafb4d9219.jpg?x-oss-process=image/format,jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://img.bosszhipin.com/beijin/upload/image/20191225/f1ab4555112c48503c7fdd8712531102.jpg?x-oss-process=image/format,jpg"
+    }
+  ],
+  "comment": {
+    "count": 2
+  },
+  "resume": {
+    "UserName": "李半仙",
+    "Telephone": "18381155922",
+    "Live": "四川眉山山咔咔",
+    "Remark": "干",
+    "skill": "vue、react、javascript、angular"
+  }
+}
