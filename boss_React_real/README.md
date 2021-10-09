@@ -1,3 +1,7 @@
+# 项目介绍
+
+这是一个用React框架编写的仿BOSS直聘官网，涵盖React90%以上知识点，主要针对React知识点进行一个复习巩固，查漏补缺，更进一步！
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
